@@ -4,7 +4,14 @@
 
 def solve():
 # # Ниже пишите решение задачии(Обязательно поставьте четыре пробела после функции Solve())
+num1 = 3
+num2 = 7
 
+result = num1 + num2
+
+print(3, num1)
+print(7, num2)
+print(12, result)
 
 
 
